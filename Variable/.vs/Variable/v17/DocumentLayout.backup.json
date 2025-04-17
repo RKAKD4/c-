@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Variable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|solutionrelative:Variable\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\Type Conversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|solutionrelative:Variable\\Type Conversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\datalit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|solutionrelative:Variable\\datalit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\datascope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|solutionrelative:Variable\\datascope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\datachar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|solutionrelative:Variable\\datachar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\VariableEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9E79E2D-2EC5-4CA7-92EE-0BFFDBF265F3}|Variable\\Variable.vcxproj|solutionrelative:Variable\\VariableEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swap.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\swap.c",
+              "RelativeDocumentMoniker": "Variable\\swap.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\swap.c",
+              "RelativeToolTip": "Variable\\swap.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T10:31:25.349Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Type Conversion.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\Type Conversion.c",
+              "RelativeDocumentMoniker": "Variable\\Type Conversion.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\Type Conversion.c",
+              "RelativeToolTip": "Variable\\Type Conversion.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T10:14:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "datalit.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\datalit.c",
+              "RelativeDocumentMoniker": "Variable\\datalit.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\datalit.c",
+              "RelativeToolTip": "Variable\\datalit.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T12:01:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "datachar.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\datachar.c",
+              "RelativeDocumentMoniker": "Variable\\datachar.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\datachar.c",
+              "RelativeToolTip": "Variable\\datachar.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T11:31:46.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "datascope.cpp",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\datascope.cpp",
+              "RelativeDocumentMoniker": "Variable\\datascope.cpp",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\datascope.cpp",
+              "RelativeToolTip": "Variable\\datascope.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAzwDsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T10:43:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VariableEx.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\VariableEx.c",
+              "RelativeDocumentMoniker": "Variable\\VariableEx.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\VariableEx.c",
+              "RelativeToolTip": "Variable\\VariableEx.c",
+              "ViewState": "AgIAACMAAAAAAAAAAAAzwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T12:10:40.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
