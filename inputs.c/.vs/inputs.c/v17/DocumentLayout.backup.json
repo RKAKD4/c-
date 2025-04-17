@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\inputs.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD0C7BA-8F6A-4957-ABB2-FE3B020E563C}|inputs.c\\inputs.c.vcxproj|C:\\cworks\\inputs.c\\inputs.c\\inputEX2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD0C7BA-8F6A-4957-ABB2-FE3B020E563C}|inputs.c\\inputs.c.vcxproj|solutionrelative:inputs.c\\inputEX2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD0C7BA-8F6A-4957-ABB2-FE3B020E563C}|inputs.c\\inputs.c.vcxproj|C:\\cworks\\inputs.c\\inputs.c\\inputEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD0C7BA-8F6A-4957-ABB2-FE3B020E563C}|inputs.c\\inputs.c.vcxproj|solutionrelative:inputs.c\\inputEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inputEx2.c",
+              "DocumentMoniker": "C:\\cworks\\inputs.c\\inputs.c\\inputEx2.c",
+              "RelativeDocumentMoniker": "inputs.c\\inputEx2.c",
+              "ToolTip": "C:\\cworks\\inputs.c\\inputs.c\\inputEx2.c",
+              "RelativeToolTip": "inputs.c\\inputEx2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:04:55.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inputEx.c",
+              "DocumentMoniker": "C:\\cworks\\inputs.c\\inputs.c\\inputEx.c",
+              "RelativeDocumentMoniker": "inputs.c\\inputEx.c",
+              "ToolTip": "C:\\cworks\\inputs.c\\inputs.c\\inputEx.c",
+              "RelativeToolTip": "inputs.c\\inputEx.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T11:40:59.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

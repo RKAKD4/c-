@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BitOperator.c" />
+    <ClCompile Include="ChoiceOperator.c" />
+    <ClCompile Include="constantEX.c" />
     <ClCompile Include="operatorEX1.c" />
     <ClCompile Include="operatorEX2.c" />
   </ItemGroup>

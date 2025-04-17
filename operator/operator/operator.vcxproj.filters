@@ -21,5 +21,14 @@
     <ClCompile Include="operatorEX2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="constantEX.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitOperator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ChoiceOperator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

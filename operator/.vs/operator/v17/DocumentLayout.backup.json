@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\cworks\\operator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|C:\\cworks\\operator\\operator\\ChoiceOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|solutionrelative:operator\\ChoiceOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|C:\\cworks\\operator\\operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|solutionrelative:operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|C:\\cworks\\operator\\operator\\operatorEX2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|solutionrelative:operator\\operatorEX2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|C:\\cworks\\operator\\operator\\constantEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|solutionrelative:operator\\constantEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E30389E6-30CF-47E2-AC4B-7308F0ED598B}|operator\\operator.vcxproj|C:\\cworks\\operator\\operator\\operatorEX1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,25 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChoiceOperator.c",
+              "DocumentMoniker": "C:\\cworks\\operator\\operator\\ChoiceOperator.c",
+              "RelativeDocumentMoniker": "operator\\ChoiceOperator.c",
+              "ToolTip": "C:\\cworks\\operator\\operator\\ChoiceOperator.c*",
+              "RelativeToolTip": "operator\\ChoiceOperator.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:37:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitOperator.c",
+              "DocumentMoniker": "C:\\cworks\\operator\\operator\\BitOperator.c",
+              "RelativeDocumentMoniker": "operator\\BitOperator.c",
+              "ToolTip": "C:\\cworks\\operator\\operator\\BitOperator.c",
+              "RelativeToolTip": "operator\\BitOperator.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:23:12.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "constantEX.c",
+              "DocumentMoniker": "C:\\cworks\\operator\\operator\\constantEX.c",
+              "RelativeDocumentMoniker": "operator\\constantEX.c",
+              "ToolTip": "C:\\cworks\\operator\\operator\\constantEX.c",
+              "RelativeToolTip": "operator\\constantEX.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T11:24:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "operatorEX2.c",
               "DocumentMoniker": "C:\\cworks\\operator\\operator\\operatorEX2.c",
               "RelativeDocumentMoniker": "operator\\operatorEX2.c",
               "ToolTip": "C:\\cworks\\operator\\operator\\operatorEX2.c",
               "RelativeToolTip": "operator\\operatorEX2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-15T12:40:06.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "operatorEX1.c",
               "DocumentMoniker": "C:\\cworks\\operator\\operator\\operatorEX1.c",
               "RelativeDocumentMoniker": "operator\\operatorEX1.c",
               "ToolTip": "C:\\cworks\\operator\\operator\\operatorEX1.c",
               "RelativeToolTip": "operator\\operatorEX1.c",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-15T12:15:40.356Z"
             }
