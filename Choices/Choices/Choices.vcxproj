@@ -131,7 +131,8 @@
     <ClCompile Include="IfElseIf.c" />
     <ClCompile Include="ifEx.c" />
     <ClCompile Include="ifEx2.c" />
-    <ClCompile Include="LeafYear.c" />
+    <ClCompile Include="LeapYear.c" />
+    <ClCompile Include="Seat.c" />
     <ClCompile Include="SwitchEx.c" />
     <ClCompile Include="SwitchEx2.c" />
     <ClCompile Include="WhileBreak.c" />
