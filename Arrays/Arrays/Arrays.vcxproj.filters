@@ -30,5 +30,20 @@
     <ClCompile Include="ArrayDel.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ArrayCalc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Arraycalc2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraySwap1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
