@@ -24,5 +24,29 @@
     <ClCompile Include="PointerArray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PointerCalc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbyRef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbyRef2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerString2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TypingGane.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
